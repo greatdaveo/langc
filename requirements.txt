@@ -8,3 +8,5 @@ lxml
 arxiv
 pymupdf
 wikipedia
+langchain-openai
+chromadb
